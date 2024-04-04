@@ -101,7 +101,7 @@ if (res == 0) printf("FIFO created\n");
 exit(EXIT_SUCCESS);
 }
 
-
+```
 
 
 ## OUTPUT
